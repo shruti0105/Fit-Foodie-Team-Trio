@@ -1,7 +1,5 @@
 # Fit-Foodie
 
-# Fit-Foodie
-
 A user-interactive full stack web application that provides nutrition value of food.
 It accepts food photographs as input, automatically recognizes the food and outputs the nutritional information.
 It also shows user there history. So that they can track their intake of each nutrient
@@ -23,6 +21,9 @@ User Dashboard:
 
 Monthly, weekly and year report visual representation:
 ![image](https://user-images.githubusercontent.com/85441257/228229563-afcec6df-d779-40e2-bec2-ef7338b042b4.png)
+
+Recommend recipes according to input consisting of calories and food item:
+![image](https://github.com/shruti0105/Fit-Foodie-Trio-/assets/86341677/230859ce-3fcc-470d-b0dd-d62adcdc1ba6)
 
 Schema for the project:
 ![Schema](https://user-images.githubusercontent.com/85441257/218472406-07bca278-9036-474d-9a5a-20a98c88907e.png)
